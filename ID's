@@ -1,0 +1,149 @@
+# ASSAULT RIFLES
+
+HVK-30 == ar_cqb
+ICR-1 == ar_accurate
+KN-44 == ar_standard
+M8A7 == ar_longburst
+Man-o-War == ar_damage
+Sheiva == ar_marksman
+MX Garand == ar_garand
+Peacekeeper Mk2 == ar_peacekeeper
+M16 == ar_m16
+Galil == ar_galil
+M14 == ar_m14
+StG-44 == ar_stg44
+FFAR == ar_famas
+
+# SUBMACHINE GUNS
+
+Kuda == smg_standard
+Pharo == smg_burst
+Razorback == smg_longrange
+Vesper == smg_fastfire
+VMP == smg_versatile
+Weevil == smg_capacity
+HG 40 == smg_mp40
+PPSh-41 == smg_ppsh
+Ak-74 u == smg_ ak74u
+Bootlegger == smg_sten
+M1927 == smg_thompson
+MP 40 == smg_mp40_1940
+
+# LMG's
+
+48 Dredge == lmg_heavy
+BRM == lmg_light
+Dingo == lmg_cqb
+Gorgon == lmg_slowfire
+MG-08/15 == lmg_mg08
+RPK == lmg_rpk
+
+# SNIPER RIFLES
+
+Drakon == sniper_fastsemi
+Locus == sniper_fastbolt
+SVG-100 == sniper_powerbolt
+
+# SHOTGUNS
+
+KRM-262 == shotgun_pump
+205 Brecci == shotgun_semiauto
+Argus == shotgun_precision
+Haymaker 12 == shotgun_fullauto
+Banshii == shotgun_energy
+
+# PISTOLS
+
+L-CAR 9 == pistol_fullauto
+MR6 == pistol_standard
+RK5 == pistol_burst
+Bloodhound == pistol_revolver38
+Rift E9 = pistol_energy
+Marshal 16 Dual Wield == pistol_shogun
+1911 == pistol_m1911
+Mauser C96 == pistol_c96
+NX ShadowClaw == special_crossbow
+
+# LAUNCHERS
+
+XM-53 == launcher_standard
+L4 Siege == launcher_multi
+
+# MELEE
+
+Bowie Knife == bowie_knife
+Ballistic Knife == knife_ballistic
+One-Inch Punch == one_inch_punch
+Plunger == plunger
+
+# SPECIALIST's
+
+Ragnarok DG-4 == hero_gravityspikes_melee
+Apothicon Sword == glaive_apothicon_1
+Keeper Sword == glaive_keeper_1
+Annihilator == hero_annihilator
+Skull Of Nan Sapwe == skull_gun
+Gauntlet Of Siegfried == dragon_gauntlet
+
+# DER EISENDRACHE BOWS
+
+Wrath Of The Ancients == elemental_bow
+Lightning Bow == elemental_bow_storm
+Void Bow == elemental_bow_demongate
+Wolf Bow == elemental_bow_wolf_howl
+Fire Bow == elemental_bow_rune_prison
+
+# ORIGINS STAFFS
+
+Staff Of Ice == staff_water
+Staff Of Wind == staff_air
+Staff Of Fire == staff_fire
+Staff Of Lightning == staff_lightning
+
+# WONDER WEAPONS
+
+Ray Gun == ray_gun
+Ray Gun Mark II == raygun_mark2
+GKZ-45 Mk3 == raygun_mark3
+Apothicon Servant (Jessica Rose) == idgun_0
+Apothicon Servant (Floyd Campbell) == idgun_1
+Apothicon Servant (Nero) == idgun_2
+Apothicon Servant (Jack Vincent) == idgun_3
+Apothicon Servant (Revelations) == genesis_idgun_0
+Thundergun == thundergun
+Wave Gun == microwavegundw
+31-79 JGb215 == shrink_ray
+Wunderwaffe DG-2 == tesla_gun
+KT-4 == hero_mirg2000
+
+# DROPS
+
+Death Machine == minigun
+
+# THROWABLES
+
+Frag Grenade == frag_grenade
+Cymbal Monkeys == cymbal_monkey
+Lil' Arnies == octobomb
+Dragon Strike Controller == launcher_dragon_strike
+Gersh Device == black_hole_bomb
+Matryoshka Dolls == nesting_dolls
+Quantum Entanglement Device == quantum_bomb
+G-Strike == beacon
+
+# MAPS
+
+Shadows Of Evil == zm_zod
+The Giant == zm_factory
+Der Eisendrache == zm_castle
+Zetsubou No Shima == zm_island
+Gorod Krovi == zm_stalingrad 
+Revelations == zm_genesis
+Nacht Der Untoten == zm_prototype
+Verruckt == zm_asylum
+Shi No Numa == zm_sumpf
+Kino Der Toten == zm_theater
+Ascension == zm_cosmodrone
+Shangri-La == zm_temple
+Moon == zm_moon
+Origins == zm_tomb
