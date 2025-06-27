@@ -1,0 +1,18 @@
+# HOW TO INSTALL THE FIRST BOX PATCH
+
+1. Open your mods folder in the BO3 directory.
+2. Open Your desired mod then go to /'yourmodv1'/scripts/zm
+3. Open the '_zm_magicbox.gsc' file.
+4. Press 'ctrl + f' to open word find.
+5. Now paste this string: '} function treasure_chest_ChooseWeightedRandomWeapon( player ){'
+6. You should see the same piece of code in the script.
+7. Now paste the script from 'first_box_patch.cpp' (My first box patch), under this string ^
+8. Close and save the file
+9. Launch Black Ops III and activate the mod with the first box patch
+10. Launch a game and test it!!
+
+# HOW TO CUSTOMIZE THE FIRST BOX PATCH
+
+Customizing the first box patch to change the map and weapons is very possible.
+To do this you want to find the codename of the map / weapon you want to apply the patch on, I have a whole file made for this in the repository which goes through almost all weapons in the game for their codename.
+just simply replace the codenames in the two speech marks to change them.
